@@ -1,5 +1,5 @@
 # CryptoAlgoTrading
-Building a bot to trade cryptos quickly.
+The Valley master's project: building a bot to trade cryptos quickly.
 
 ## Important Documents
 - [Project Presentation Slides](https://docs.google.com/presentation/d/1y4o_Wdomcc2rppq7gRFOV55MOxoPjYHjHMIoIe6qQ2k/edit?usp=sharing): presentation to project, plan and objectives.
